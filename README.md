@@ -1,4 +1,6 @@
-# Redux Toolkit
+# [Redux Toolkit App](https://tubular-marigold-828108.netlify.app/)
+
+simple basic react redux toolkit app with cheetsheat
 
 #### React Course
 
